@@ -30,7 +30,7 @@ The core of the image conversion utilizes the Union-Find algorithm, ensuring eff
 
 1. Clone the repository:
    ```bash
-   git clone [your_repository_link]
+   git clone https://github.com/JayLangfordGitHub/DeepSpaceImageAnalyser/tree/main
 2. Compile the application in your software.
 
 ## Usage
