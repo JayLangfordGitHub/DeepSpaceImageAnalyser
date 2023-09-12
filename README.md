@@ -31,3 +31,9 @@ The core of the image conversion utilizes the Union-Find algorithm, ensuring eff
 1. Clone the repository:
    ```bash
    git clone [your_repository_link]
+2. Compile the application in your software.
+
+## Usage
+1. Load your deep space image.
+2. Use the provided controls to convert, filter, label, and analyze the stars.
+3. View the results and make necessary adjustments using the filters.
