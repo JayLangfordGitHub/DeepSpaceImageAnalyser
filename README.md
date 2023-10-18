@@ -2,7 +2,7 @@
 
 SETU BSc (Hons) in Applied Computing (Cloud &amp; Networks) Year 2 Semester 2 Data Structures &amp; Algorithms 2 Assignment 1 94%
 
-Analyze the stars in your deep space images with precision and ease. Built with JavaFX, this tool provides a comprehensive analysis of stars in any given image.
+Analyse the stars in your deep space images with precision and ease. Built with JavaFX, this tool provides a comprehensive analysis of stars in any given image.
 
 ![image](https://github.com/JayLangfordGitHub/DeepSpaceImageAnalyser/assets/132077071/7ec5cddf-fe31-451f-84b2-6553ec98135f)
 ![image](https://github.com/JayLangfordGitHub/DeepSpaceImageAnalyser/assets/132077071/031997ad-2680-41a4-9742-77cab088bf46)
@@ -35,5 +35,5 @@ The core of the image conversion utilizes the Union-Find algorithm, ensuring eff
 
 ## Usage
 1. Load your deep space image from the DeepSpaceImageFolder provided.
-2. Use the provided controls to convert, filter, label, and analyze the stars.
+2. Use the provided controls to convert, filter, label, and analyse the stars.
 3. View the results and make necessary adjustments using the filters.
