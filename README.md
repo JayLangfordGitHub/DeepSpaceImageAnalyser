@@ -13,7 +13,7 @@ Analyse the stars in your deep space images with precision and ease. Built with 
 - **Star Filtering**: Filter stars based on size (in pixels) and luminance values (brightness).
 - **Star Labeling**: Label stars from the biggest (starting at 1) to the smallest.
 - **Star Counting**: Get an accurate count of the number of stars in your image. The count updates in real-time as you apply different filters.
-- **Star Highlighting**: Circle stars in the image for better visualization.
+- **Star Highlighting**: Circle stars in the image for better visualisation.
 
 ## How It Works
 
