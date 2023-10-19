@@ -1,6 +1,6 @@
 # Deep Space Image Analyzer
 
-SETU BSc (Hons) in Applied Computing (Cloud &amp; Networks) Year 2 Semester 2 Data Structures &amp; Algorithms 2 Assignment 1 94%
+SETU BSc (Hons) in Computer Science (Cloud &amp; Networks) Year 2 Semester 2 Data Structures &amp; Algorithms 2 Assignment 1 94%
 
 Analyse the stars in your deep space images with precision and ease. Built with JavaFX, this tool provides a comprehensive analysis of stars in any given image.
 
